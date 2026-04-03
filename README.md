@@ -1,7 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-> **Support this project* All donations go towards your chosen charity. All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name can be added to the official donor list for this project on GitHub. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected! :). As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
-
 # RuneScape Leveling Cost & Duration Calculator
 
 ## Table of Contents
@@ -30,7 +28,6 @@ This web application provides a convenient way to estimate the time and cost req
 ## Example [version 1.1.1]
 Using my account, prayer with Dragon Bones + Burial Powder
 ![image](https://github.com/Nigel1992/RuneScape-Leveling-Cost-Duration-Calculator/assets/5491930/3482c184-4799-449a-b6bb-c2a2979d3052)
-
 
 ## How to Use
 1. Clone or download the repository to your local machine.
@@ -62,7 +59,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Updated HTML and PHP code to include the in-game avatar display functionality.
 - Improved user experience by providing visual representation of the user's in-game identity.
 
-
 ### Version 1.1.0 - 2024-05-06
 #### Changed
 - Updated background and text colors for better readability and user experience.
@@ -89,3 +85,7 @@ Feel free to contact me on Discord for any help or suggestions: nigel.92
 ## Legal Disclaimer
 
 This project is not affiliated with, endorsed, sponsored, or specifically approved by RuneScape or its parent company Jagex Limited. RuneScape and Jagex are trademarks or registered trademarks of Jagex Limited. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand. This project is for educational and informational purposes only.
+
+## Support This Project
+
+Support this project! All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected!
