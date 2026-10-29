@@ -5,6 +5,8 @@
 
 # RuneScape Leveling Cost & Duration Calculator
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 ## Table of Contents
 
 1. [Overview](#overview)
